@@ -1,0 +1,58 @@
+* {box-sizing: border-box;}
+
+.wrap{
+  display: flex;
+    
+}
+
+.Container{
+  margin-left: 156px;
+
+}
+
+.Slide{
+  width: 350px;
+  height: 200px;
+  margin-bottom: 4px;
+}
+
+.img-zoom-container {
+  position: relative;
+  margin-right: 128px;
+}
+
+.lens {
+  position: absolute;
+  border: 2px solid #d4d4d4;
+  width: 60px;
+  height: 60px;
+}
+
+.img-zoom-result {
+  border: 1px solid #d4d4d4;
+  width: 602px;
+  height: 450px;
+ 
+}
+
+button{
+  width: 60px;
+  height: 40px;
+  font-size: 18px;  
+  color: white;
+  background: #800000;
+  border-style: hidden;
+  border-radius: 7px;
+}
+
+button:hover{
+
+  background: #330000;
+
+}
+    
+   
+
+   
+
+   
